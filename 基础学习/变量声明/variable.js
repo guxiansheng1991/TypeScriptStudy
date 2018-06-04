@@ -14,5 +14,4 @@ var obj1 = {
     name: 'syc'
 };
 // obj1.age = 11;
-obj1['age'] = 11;
 console.log(obj1);
